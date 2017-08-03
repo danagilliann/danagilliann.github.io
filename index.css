@@ -11,9 +11,9 @@ body {
 
 .white-background {
   background-color: white;
-  width: 98%;
+  width: 99.5%;
   height: auto;
-  margin: 1.5em auto;
+  margin: 1em auto;
   padding-bottom: 1.5em;
 }
 
@@ -47,19 +47,19 @@ a:active {
   padding: 0.1em 0em;
 }
 
-.div_projects, .div_contact {
-  margin-top: 10em;
+.div_section {
+  margin-top: 7em;
 }
 
-.h2_projects-title {
+.h2_section-title {
   font-size: 28px;
 }
 
-.ul_project {
+.ul_site {
   padding-left: 0px;
 }
 
-.li_project {
+.li_site {
   list-style-type: none;
   margin: 0px;
   padding: 0.4em 0em;
