@@ -5,6 +5,10 @@ body {
   background-image: url("img/pic-background.jpg");
 }
 
+p {
+  font-size: 1em;
+}
+
 .pic-background {
 /*  background-image: url("img/pic-background.jpg");*/
 }
@@ -43,7 +47,7 @@ a:active {
   margin-top: 7em;
 }
 
-.p_greeting-desc {
+.p_greeting-desc, .p_contact {
   padding: 0.1em 0em;
 }
 
@@ -65,8 +69,20 @@ a:active {
   padding: 0.4em 0em;
 }
 
+.li_contact {
+  display: inline;
+}
+
+.a_contact {
+  display: inline;
+}
+
 .p_contact {
   display: inline;
+}
+
+.div_contact {
+  display: inline
 }
 
 @media only screen and (min-width: 992px) {
